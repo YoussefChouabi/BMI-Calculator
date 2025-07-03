@@ -1,7 +1,7 @@
 # BMI Calculator
 A simple Body Mass Index (BMI) calculator web application that calculates BMI based on user input (height and weight) and provides a health assessment.
 
-Features
+## Features
 Calculate BMI: Input height (in cm) and weight (in kg) to get your BMI.
 
 Health Classification: Shows whether you are underweight, normal, overweight, or obese.
@@ -10,14 +10,14 @@ Responsive Design: Works on desktop and mobile devices.
 
 Clean UI: Simple and intuitive interface.
 
-Technologies Used
+## Technologies Used
 HTML5 (Structure)
 
 CSS3 (Styling)
 
 JavaScript (Logic & Calculation)
 
-How to Use
+## How to Use
 Enter your height in centimeters (cm).
 
 Enter your weight in kilograms (kg).
@@ -41,6 +41,7 @@ t
 k
 g
 )
+
 (
 h
 e
@@ -51,6 +52,7 @@ t
 (
 m
 )
+
 )
 2
 BMI= 
@@ -60,19 +62,24 @@ BMI=
 weight(kg)
 ​
  
-BMI Categories
-BMI Range	Category
-< 18.5	Underweight
-18.5 - 24.9	Normal weight
-25 - 29.9	Overweight
-≥ 30	Obese
-Screenshot
-(Optional: Add a screenshot of your app here)
+## BMI Categories
+### BMI Range 
+Category < 18.5	Underweight
 
-Installation
+18.5 - 24.9	Normal weight
+
+25 - 29.9	Overweight
+
+≥ 30	Obese
+
+## Screenshot
+<img width="845" alt="image" src="https://github.com/user-attachments/assets/56fc1ca6-d672-42fa-a421-b4a1d0f78231" />
+
+
+## Installation
 No installation required! Just open index.html in a web browser.
 
-Live Demo
+## Live Demo
 (Optional: Add a GitHub Pages or Netlify link if deployed)
 
 License
