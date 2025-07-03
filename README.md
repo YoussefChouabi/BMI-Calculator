@@ -80,7 +80,7 @@ Category < 18.5	Underweight
 No installation required! Just open index.html in a web browser.
 
 ## Live Demo
-(Optional: Add a GitHub Pages or Netlify link if deployed)
+[(Optional: Add a GitHub Pages or Netlify link if deployed)](https://youssefchouabi.github.io/BMI-Calculator/)
 
 License
 This project is open-source under the MIT License.
